@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning about exploit development for x86 and x64 
+- 🌱 I’m currently learning about exploit development for x64 architecture
+- :computer: Favourite programming languages: C && Python
+- :earth_americas: I am from Brazil
+- :house: Living in Norway
 - 📫 How to reach me: just pm me on facebook homie
 - ⚡:pill: Fun fact: I am ADHD and fighting depression lol lol :)
