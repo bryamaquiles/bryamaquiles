@@ -7,10 +7,12 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning about exploit development for x64 architecture
+- 🌱 I’m currently learning about Reverse engineering, malware analysis and exploit development <3
 - :computer: Favourite programming languages: C && Python
 - :earth_americas: I am from Brazil
 - :house: Living in Norway
 - :speaking_head: Portuguese, Norweagian, English and Spanish
 - 📫 How to reach me: just pm me on facebook homie
-- ⚡:pill: Fun fact: I am ADHD and fighting depression lol lol :)
+- ⚡:pill: Fun fact: I am ADHD and fighting depression lol haha :)
+
+Programming and hacking are some of the few things that still makes me feel alive. :)
